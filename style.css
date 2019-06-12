@@ -1,0 +1,8 @@
+.zdog-canvas {
+    background: #FDB;
+    cursor: move;
+}
+
+#text-canvas {
+    position: fixed;
+}
